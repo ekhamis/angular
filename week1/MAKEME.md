@@ -1,4 +1,4 @@
-# Angular - Reading material for week 1
+# Angular - Homework for week 1
 
 > This is the first time we're teaching this new module. Please help us improve it by providing feedback on Slack.
 
@@ -10,6 +10,9 @@ That means we're going to have, in our application:
  - A Controller (a piece of code that knows what to do with user input and perform some logic)
 
 ## How to hand in the assignment
+<<<<<<< HEAD
+Check [this video](https://youtu.be/-o0yomUVVpU)
+=======
 To streamline the homework process, we've already initiated a repo on github. This is *only* the product of `ng new xxx`. Before cloning, give the `ng new` command a shot. There's nothing to it. Why already make this repo instead of letting everyone do `ng new` and push themselves? Well, we're going to check homework from now on through pull requests. If we all contribute to 1 repo, it's super easy to see exactly what someone did _other than `ng new`_ because `ng new` will create 10.000 lines. And working through 10.000 lines to find 10 that someone made is quite bother.
 
 ### Before you start
@@ -26,10 +29,11 @@ To streamline the homework process, we've already initiated a repo on github. Th
 3) Here, it will say "1 commit ahead of hackyourfuture/angular-class7/master". Then it says "create pull request"
 4) Create a pull request
 5) That's it!
+>>>>>>> e2bd0b99c62741b5f6eb78806c791d29fe4595c8
 
 ## Assignment Requirements
 Software requirements:
-- We Use at Angular 2 written in TypeScript
+- We use at Angular 2 written in TypeScript
 - You may include any other library/package
 
 Functional requirements:
